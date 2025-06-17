@@ -1,0 +1,12 @@
+title: "Mahesh Kumar Tippanu"
+description: "My journey from Civil Engineering to IT and beyond"
+baseurl: ""
+url: "https://maheshkumartippanu.github.io"
+
+author:
+  name: "Mahesh Kumar Tippanu"
+  avatar: "/assets/img/Mahesh.jpg"
+  email: "maheshkumartippanu@gmail.com"
+  phone: "+91-6303186275"
+
+theme: minima
